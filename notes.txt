@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=tOK9l5uP06U&ab_channel=BriceAyres
+
+
+
+
+** Libraries 
+
+react-bootstrap
+yarn
+styled-components
+
+
+******* Questions ********
+
+GIT -> 
+git push u- origin main https://github.com/Adrienbdt/React_FreshMealPlans.git
+
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Adrienbdt/React_FreshMealPlans.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+Only works: 
+git push --force-with-lease origin main
+
+
+Is Yarn still relevant? 
+<React.Fragment></React.Fragment> --> Wrapper
+
+
+**************************
+
+
+
+react bootstrap --> we need to add the stylesheet tag to the index.html (public folder)
+
+create routing with our components
